@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17e382d0-181e-4df6-b17b-00eac12eeb5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/root.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/root.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/welcome.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="25" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000458447574445" />
+      <entry key="MS500" value="1.3248974275867433" />
+      <entry key="S2" value="3.637273355283753" />
+      <entry key="S5" value="5.2769825975033955" />
+      <entry key="S10" value="6.05721197935035" />
+      <entry key="S30" value="6.665585182440404" />
+      <entry key="S60" value="6.84592935514102" />
+      <entry key="M2" value="7.218699181979867" />
+      <entry key="M5" value="9.87371040915644" />
+      <entry key="M10" value="15.604704999198947" />
+      <entry key="M15" value="20.479323588674056" />
+      <entry key="M30" value="29.282692126552153" />
+      <entry key="H1" value="36.26841587733984" />
+      <entry key="H2" value="40.72541277374277" />
+      <entry key="H4" value="43.254576835947944" />
+      <entry key="D1" value="118.63048010678123" />
+      <entry key="W1" value="449.6969550234052" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="8.710326574704465E-275" />
+      <entry key="S5" value="2.3850154973104026E-110" />
+      <entry key="S10" value="1.65728486530051E-55" />
+      <entry key="S30" value="8.859810321809612E-19" />
+      <entry key="S60" value="1.5835522971007252E-9" />
+      <entry key="M2" value="7.484403727323909E-5" />
+      <entry key="M5" value="0.05804831691282092" />
+      <entry key="M10" value="0.5751491519178603" />
+      <entry key="M15" value="1.2491945560230662" />
+      <entry key="M30" value="2.7294006357986222" />
+      <entry key="H1" value="4.043671313311272" />
+      <entry key="H2" value="4.924702195831026" />
+      <entry key="H4" value="5.435766362121471" />
+      <entry key="D1" value="8.901526869843428" />
+      <entry key="W1" value="21.880736289635177" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0178689212993355" />
+      <entry key="MS500" value="0.7678832881629576" />
+      <entry key="S2" value="3.4474526166085893" />
+      <entry key="S5" value="5.1949843771866275" />
+      <entry key="S10" value="6.015060937784198" />
+      <entry key="S30" value="6.651259478519001" />
+      <entry key="S60" value="6.838390580431902" />
+      <entry key="M2" value="7.212301013346163" />
+      <entry key="M5" value="9.91994649203353" />
+      <entry key="M10" value="16.158943991926733" />
+      <entry key="M15" value="21.70398929051132" />
+      <entry key="M30" value="31.989137675047232" />
+      <entry key="H1" value="40.29607632727966" />
+      <entry key="H2" value="45.64062002068198" />
+      <entry key="H4" value="48.68516769200159" />
+      <entry key="D1" value="127.530645754439" />
+      <entry key="W1" value="471.5772271857936" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3FFeslEx5KDthwx6GulTNAEb1cs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/macbookhome/Desktop/prostyrender/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17e382d0-181e-4df6-b17b-00eac12eeb5b" name="Changes" comment="" />
+      <created>1781675453824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781675453824</updated>
+      <workItem from="1781675454836" duration="19900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
